@@ -1,6 +1,6 @@
 # 目录
 
-* [FAQ](README.md)
+* [YonBuilder FAQ](README.md)
   * [产品知识](01-产品知识.md)
   * [应用构建](02-应用构建.md)
   * [数据建模](03-数据建模.md)
